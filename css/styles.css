@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightblue;
+}
+h2 {
+    text-align: center;
+}
+
+
+form {
+    margin:10px 50px;
+    max-width: 90%;
+    padding: 20px 12px 10px 20px;
+    font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+fieldset {
+    padding: 20px 12px 10px 20px;
+}
+
+table {
+    width: 80%;
+    border: 1px;
+    padding: 10px;
+    align-content: center;
+    margin:10px auto;
+    font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
